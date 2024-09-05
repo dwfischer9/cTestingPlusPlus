@@ -12,7 +12,8 @@ int main(int argc, const char * argv[]) {
     std::cout << "Enter your age.\n";
     int myAge;
     std::cin >> myAge;
-    /* this is a C++ multi line comment*/
+    /* this is a C++ multiple
+     line comment*/
     std::cout << "Enter a friend's age.\n";
     int friendAge;
     std::cin >> friendAge;
